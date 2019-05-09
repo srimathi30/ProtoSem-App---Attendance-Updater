@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AttendanceUpdater</string>
+    <string-array name="Status">
+        <item>Absent</item>
+        <item>Present</item>
+        <item>Leave</item>
+    </string-array>
+</resources>
